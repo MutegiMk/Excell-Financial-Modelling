@@ -6,6 +6,6 @@
 
 ## Content 
 These are excel templates
-* [Forecasting Model](): This template was a result of building a corporate **monthly budgeting** and **forecast model** and also and a Robust department-level-budgets     where employees will be able enter details of various department that will be intergrated into income statement 
+* [Forecasting Model](https://github.com/MutegiMk/Excell-Financial-Modelling/blob/main/Forecasting%20Model.xlsx): This template was a result of building a corporate **monthly budgeting** and **forecast model** and also and a Robust department-level-budgets     where employees will be able enter details of various department that will be intergrated into income statement 
 
-* [Threee statement Financial Model](): This a robust template involving creation of 3 statement  model
+* [Threee statement Financial Model](https://github.com/MutegiMk/Excell-Financial-Modelling/blob/main/Three%20Statement%20Finacial%20Model.xlsx): This a robust template involving creation of 3 statement  model
