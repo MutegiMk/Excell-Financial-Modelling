@@ -1,5 +1,5 @@
 # Excell-Financial-Modelling
->This Repo contains most sort for content skills in corporate Financial Institutions that you can download as a sample tempplate to help you build your Financial statements hence saving the hustle of building from scratch
+>This Repo contains most sort for content and skills in corporate Financial Institutions that you can download as a sample tempplate to help you build your Financial models hence saving you the hustle of building from scratch
 
 ## Installations
 > Only Excel is required to excute these templates preferably verson from 2019
